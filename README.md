@@ -1,3 +1,0 @@
-# ukarai.github.io
-
-Hello!!
